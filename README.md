@@ -1,6 +1,6 @@
 # 🔖 Sobre
 
-projeto de controle de acesso: cadastrar funcionario utilizando NodeJS.
+projeto controle de Custo: cadastrar funcionario utilizando NodeJS.
 
 ## 🗂 tecnologias
 
