@@ -2,8 +2,6 @@
 
 projeto de controle de acesso: cadastrar funcionario utilizando NodeJS.
 
-permissões.
-
 ## 🗂 tecnologias
 
 - [Node.js]
@@ -14,11 +12,12 @@ permissões.
 - [migrations]
 - [docker]
 - [Dbeaver]
+- [Hooks]
 
 ## ☑️ Funcionalidades
 
 [ ] Cadastro de Permissões<br/>
 [ ] Cadastro de funcionarios<br/>
-[ ] Relacionamento Permission_funcionarios<br/>
+[ ] Relacionamento Permissões_funcionarios<br/>
 
 ---
